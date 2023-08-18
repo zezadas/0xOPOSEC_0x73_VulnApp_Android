@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".UserActivity"
+    tools:context=".activities.UserActivity"
     tools:showIn="@layout/activity_user">
 
     <LinearLayout
@@ -27,7 +27,7 @@
                 tools:layout_editor_absoluteY="2dp" />
 
             <TextView
-                android:id="@+id/textView6"
+                android:id="@+id/userTxt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -52,7 +52,7 @@
                 tools:layout_editor_absoluteY="2dp" />
 
             <TextView
-                android:id="@+id/textView5"
+                android:id="@+id/coinTxt"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -73,32 +73,32 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/checkMoneyButton"
+            android:id="@+id/checkMoneyBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Check Money" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/editProfile"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Edit Profile" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/doOperations"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Do Operations" />
 
         <Button
-            android:id="@+id/adminStuffMoney"
+            android:id="@+id/adminStuffBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:enabled="false"
             android:text="Admin Stuff" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/logoutBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Logout" />

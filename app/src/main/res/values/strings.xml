@@ -1,15 +1,11 @@
 <resources>
     <string name="app_name">VulnApp</string>
-    <string name="action_settings">Settings</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_user">UserActivity</string>
     <string name="AdminMessage">You are ADMIN !!!!!</string>
     <string name="Leet">LEET!!!</string>
     <string name="API_ENDPOINT">https://sefod.eu/api/</string>
-    <string name="one_three_three_seven">1337</string>
-    <string name="adminRole">admin</string>
-    <string name="author">https://www.meetup.com/0xOPOSEC/members/215958091/</string>
-    <string name="adminDashboard">https://www.meetup.com/0xOPOSEC/events/260453406/</string>
+    <string name="author">https://t.w.i.t.t.e.r.c.o.m/0xz3z4d45</string>
+    <string name="adminDashboard">https://w.w.w.a.l.l.i.g.a.t.o.r.c.o.n.e.u/index-2022.html</string>
 </resources>
